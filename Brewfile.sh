@@ -1,0 +1,18 @@
+tap "homebrew/bundle"
+tap "hashicorp/tap"
+
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "node"
+brew "nvm"
+brew "python-setuptools"
+brew "python"
+brew "git"
+brew "docker"
+brew "hashicorp/tap/terraform"
+
+cask "miniforge"
+cask "visual-studio-code"
+cask "drawio"
+cask "google-cloud-sdk"
