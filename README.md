@@ -11,6 +11,11 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 ```
 
 ### Step 2:
-Run `$ brew bundle` in your terminal and watch the magic happen.
+Install the applications from the Brewfile using this command in your terminal:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/kopacz-madalina/Brewfile/refs/heads/main/INSTALL.sh)"
+```
+
 
 If everything runs without error, you are good to go!
