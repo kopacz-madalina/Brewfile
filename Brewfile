@@ -12,6 +12,7 @@ brew "git"
 brew "docker"
 brew "hashicorp/tap/terraform"
 
+cask "miniforge"
 cask "visual-studio-code"
 cask "drawio"
 cask "google-cloud-sdk"
